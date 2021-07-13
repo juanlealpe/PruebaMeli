@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PruebaMeLi</string>
+
+    <string name="welcome">BIENVINDOS</string>
+    <string name="selectCountry">Selecione el país.</string>
+    <string name="espere_un_momento">Por favor espere un momento</string>
+    <string name="Buscar_Categoria">Buscar Categoria</string>
+    <string name="detalle"> Ver Detalle</string>
+    <string name="prece"> Precío:</string>
+    <string name="available_quantity"> Cantidad Disponible:</string>
+
+
+
+</resources>

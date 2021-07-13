@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/BaseApplication.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/api/API.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/api/RetrofitClient.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/api/models/Catergory.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/api/models/Contry.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/api/models/search.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/ui/Detail/DetailActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/ui/Detail/IListDetailProduct.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/ui/Detail/ListDetailProductAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/ui/Detail/ListDetailProductModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/ui/Detail/ListDetailProductPresenter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/ui/ListContryAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/ui/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/ui/category/CategoryActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/ui/category/IListCategory.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/ui/category/IteratorCategory.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/ui/category/ListCategoryAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/ui/category/ListCategoryModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/ui/category/ListCategoryPresenter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/ui/utils/Constants.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/ui/utils/UtilsProgress.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/ui/welcome/IListContry.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/ui/welcome/IteractorContry.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/ui/welcome/IteratorContry.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/ui/welcome/ListContryAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/ui/welcome/ListContryModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/ui/welcome/ListContryPresenter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/ui/welcome/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/co/com/meli/mobile/pruebameli/ui/welcome/WelcomeActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_category.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_list_category.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_list_contry.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_list_detail_product.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/progress.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PruebadeIngreso/app/src/main/java/co/com/ceiba/mobile/pruebadeingreso/Ui/Post/IPostList.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PruebadeIngreso/app/src/main/java/co/com/ceiba/mobile/pruebadeingreso/domain/Model/PostInterator.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Amway/AppAndroid/app/src/main/java/com/periferia/metas_amway/api/API.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Amway/AppAndroid/app/src/main/java/com/periferia/metas_amway/api/RetrofitClient.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Amway/AppAndroid/app/src/main/java/com/periferia/metas_amway/ui/customers/customersFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Amway/AppAndroid/app/src/main/java/com/periferia/metas_amway/ui/inventory/myinventory/IMyInventory.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Amway/AppAndroid/app/src/main/java/com/periferia/metas_amway/ui/inventory/myinventory/MyInventoryFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Amway/AppAndroid/app/src/main/java/com/periferia/metas_amway/ui/inventory/newinventory/NewInventoryFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Amway/AppAndroid/app/src/main/java/com/periferia/metas_amway/ui/sales/salesdetail/SalesDetailActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Amway/AppAndroid/app/src/main/res/drawable/background_filter.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Amway/AppAndroid/app/src/main/res/drawable/background_lupa.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Amway/AppAndroid/app/src/main/res/layout/fragment_customers.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Amway/AppAndroid/app/src/main/res/values-en/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Amway/AppAndroid/app/src/main/res/values-pt/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Amway/AppAndroid/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Servientrega/GrennMobile/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Servientrega/GrennMobile/app/src/main/java/com/intelmovil/greenmobile/controller/CGenerarQR.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Servientrega/GrennMobile/app/src/main/java/com/intelmovil/greenmobile/models/GenerarQRDataModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Servientrega/GrennMobile/app/src/main/java/com/intelmovil/greenmobile/models/ResultadoTransCredibancoModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Servientrega/GrennMobile/app/src/main/java/com/intelmovil/greenmobile/networking/Descargas.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Servientrega/GrennMobile/app/src/main/java/com/intelmovil/greenmobile/networking/WSResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Servientrega/GrennMobile/app/src/main/java/com/intelmovil/greenmobile/resources/Alerts.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Servientrega/GrennMobile/app/src/main/java/com/intelmovil/greenmobile/resources/Preferences.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Servientrega/GrennMobile/app/src/main/java/com/intelmovil/greenmobile/resources/Utils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Servientrega/GrennMobile/app/src/main/java/com/intelmovil/greenmobile/tasks/DescargaResultadoTransTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Servientrega/GrennMobile/app/src/main/java/com/intelmovil/greenmobile/tasks/InsertarRecaudoCredibancoTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Servientrega/GrennMobile/app/src/main/java/com/intelmovil/greenmobile/ui/activities/PagoConAppsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Servientrega/GrennMobile/app/src/main/java/com/intelmovil/greenmobile/ui/dialogs/ResultadoTransPagoAppsDialog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Servientrega/GrennMobile/app/src/main/res/layout/activity_resultado_trans_pago_apps.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Volumes/Datos/Servientrega/GrennMobile/app/src/main/res/layout/adapter_vaucher_adapter.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
